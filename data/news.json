@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Lanzamiento del Nuevo Tesla Model Z 2025: 1000 km de Autonomía",
+        "contenido": "Tesla revoluciona el mercado con su nuevo sedán eléctrico que ofrece una autonomía récord de 1000 km gracias a su innovadora batería de estado sólido. Incluye sistema de conducción autónoma nivel 4 y carga ultra rápida de 5 minutos para 400 km.",
+        "fecha": "2025-03-15",
+        "categoria": "Eléctricos"
+    },
+    {
+        "titulo": "Toyota Presenta el Mirai 2025 con Motor de Hidrógeno de Segunda Generación",
+        "contenido": "La nueva versión del Mirai ofrece un 30% más de eficiencia y una red de repostaje ampliada. Con diseño deportivo y capacidad para 5 pasajeros, promete una autonomía de 850 km con solo 3 minutos de recarga.",
+        "fecha": "2025-06-02",
+        "categoria": "Tecnología"
+    },
+    {
+        "titulo": "Ferrari SF-25 Stradale: Híbrido Enchufable con 1200 CV",
+        "contenido": "El nuevo superdeportivo italiano combina un motor V12 biturbo con tres motores eléctricos, alcanzando 0-100 km/h en 1.9 segundos. Sistema de recuperación de energía en curvas y chasis de fibra de carbono activo.",
+        "fecha": "2025-01-20",
+        "categoria": "Deportivos"
+    },
+    {
+        "titulo": "Volkswagen Autónomo 2025: Movilidad sin Volante",
+        "contenido": "Primer vehículo comercial sin controles manuales, con sistema de IA avanzada. Interior convertible en oficina móvil y capacidad para 6 pasajeros en configuración lounge. Disponible solo en servicio por suscripción.",
+        "fecha": "2025-09-10",
+        "categoria": "Autónomos"
+    }
+]
